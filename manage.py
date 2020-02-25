@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# a = "This is a change to the doc"
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
